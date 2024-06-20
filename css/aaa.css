@@ -1,0 +1,123 @@
+.principal{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.fila{
+    display: flex;
+    justify-content: space-between;
+}
+.borde {
+    background-color: rgb(234, 156, 60);
+    border-radius: 15px;
+    border: 8px solid rgb(134, 70, 1);
+}
+.cuerpo {
+    width: 200px;
+    height: 200px;
+    margin-top: -5px;
+    
+}
+.cadera {
+    width: 200px;
+    height: 30px;
+    margin-top: -8px;
+    
+}
+.cabeza {
+    width: 150px;
+    height: 160px;
+}
+.muslo {
+    width: 170px;
+    height: 90px;
+    margin-top: -8px;
+}
+.piernas {
+    width: 150px;
+    height: 90px;
+    margin-top: -8px;
+}
+.pies {
+    width: 160px;
+    height: 50px;
+    margin-top: -8px;
+}
+
+
+
+.pierna{
+    width: 66px;
+    height: 80px;
+    border: 5px solid rgb(185, 103, 15);
+}
+.pie1{
+    width: 80px;
+    height: 40px;
+    border: 5px solid rgb(185, 103, 15);
+}
+.pie2{
+    width: 80px;
+    height: 40px;
+    border: 5px solid rgb(185, 103, 15);
+}
+.dedo{
+    width: 14px;
+    height: 38px;
+    border: 2px solid rgb(185, 103, 15);
+}
+
+
+.base {
+    width: 180px;
+    height: 30px;
+}
+
+.ca-fente1{
+    width: 143px;
+    height: 30px;
+    border: 4px solid rgb(185, 103, 15);
+}
+.ca-fente2{
+    width: 143px;
+    height: 15px;
+    border: 4px solid rgb(199, 108, 10);
+}
+.fila{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.ca-ojo1{
+    width: 15px;
+    height: 15px;
+    
+    margin-top: 15px;
+    margin-left: 15px;
+    border-radius: 5px;
+    border: 5px solid rgb(185, 103, 15);
+}
+.ca-ojo2{
+    width: 15px;
+    height: 15px;
+    margin-left: 35px;
+    margin-top: 15px;
+    border-radius: 5px;
+    border: 5px solid rgb(185, 103, 15);
+}
+.ca-nariz{
+    width: 20px;
+    height: 40px;  
+    margin-top: -43px;
+    margin-left: 60px;
+    border-radius: 5px;
+    border: 5px solid rgb(185, 103, 15);
+}
+.ca-boca{
+    width: 45px;
+    height: 15px;  
+    margin-top: 20px;
+    margin-left: 50px;
+    border-radius: 5px;
+    border: 5px solid rgb(185, 103, 15);
+}
